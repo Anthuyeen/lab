@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionString": {
+    "NorthwindCS": "server=NANTHUYEEN\\SQLEXPRESS;database=Northwind;user=sa;password=Anthuyen281211"
+  }
+}
